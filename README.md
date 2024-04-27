@@ -1,7 +1,7 @@
 # Fuel Consumption Prediction Project
 
 ## Overview
-This project involves building and training a machine learning model to predict fuel consumption based on various vehicle characteristics. The model is built using PyTorch. Dataset derives from [kaggle](https://www.kaggle.com/datasets/krupadharamshi/fuelconsumption/data).
+This project involves building and training a machine learning multinomial linear regression model to predict fuel consumption based on various vehicle characteristics. The model is built using PyTorch. Dataset derives from [kaggle](https://www.kaggle.com/datasets/krupadharamshi/fuelconsumption/data).
 
 ## Features
 The model predicts fuel consumption using the following features:
